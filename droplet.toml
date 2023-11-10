@@ -6,4 +6,4 @@ log = false
 
 [sync]
 origin = "https://github.com/awtterpip/bmc1"
-targets = [ "mods/", "mods_disabled/", "skinpls/", "versions/", "world/", "banned-ips.json", "banned-players.json", "droplet.toml", "ops.json", "options.txt", "server-icon.png", "server.properties", "variables.txt", "whitelist.json" ]
+targets = [ "mods/", "mods_disabled/", "skinpls/", "versions/", "world/", "speedrun/", "banned-ips.json", "banned-players.json", "droplet.toml", "ops.json", "options.txt", "server-icon.png", "server.properties", "variables.txt", "whitelist.json" ]
